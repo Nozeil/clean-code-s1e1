@@ -33,6 +33,7 @@
   }
   .row-wrapper {
     display: flex;
+    padding: 20px 0;
   }
   .section__list {
     margin:0;
