@@ -123,14 +123,14 @@
   margin: 0 10px;
 }
 
-.list-item__label_task {
+.section__label_task {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
 
-.list-item__input_text-input {
+.section__input_text-input {
   width: 226px;
 }
 
@@ -151,15 +151,15 @@
 }
 
 /* Edit Task */
-.list-item__input_text-input {
+.section__input_invisible {
   display: none;
 }
 
-.list-item__input_edit-mode {
+.section__input_edit-mode {
   display: inline-block;
   width: 224px;
 }
 
-.list-item__label_edit-mode {
+.section__label_edit-mode {
   display: none;
 }
